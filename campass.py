@@ -1,4 +1,7 @@
-#!/usr/bin/python 
+#!/usr/bin/python
+"""
+copyright: Rishi Mukherjee
+"""
 import time
 from SimpleCV import Color, Image, np, Camera
 from SimpleCV.Display import Display
